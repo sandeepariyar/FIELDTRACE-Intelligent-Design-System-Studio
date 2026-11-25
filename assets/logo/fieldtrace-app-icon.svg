@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">FIELDTRACE app icon</title>
+  <desc id="desc">Rounded dark-blue app tile with a white geometric F and blue signal marker.</desc>
+  <defs><linearGradient id="tile" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#142747"/><stop offset="1" stop-color="#244D9D"/></linearGradient></defs>
+  <rect x="4" y="4" width="120" height="120" rx="27" fill="url(#tile)"/>
+  <g transform="translate(14 14) scale(2.38)">
+    <path fill="#FFFFFF" d="M7 7H35V14H15V20H30V27H15V35H7Z"/>
+    <path fill="#78ADFF" d="M29 27H35V35H29Z"/>
+  </g>
+</svg>

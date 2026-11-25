@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 142" role="img" aria-labelledby="title desc">
+  <title id="title">FIELDTRACE primary logo</title>
+  <desc id="desc">Geometric F mark in ink with a signal-blue square, beside FIELDTRACE wordmark and design-system descriptor.</desc>
+  <g transform="translate(21 24) scale(2.2)">
+    <path fill="#172037" d="M7 7H35V14H15V20H30V27H15V35H7Z"/>
+    <path fill="#1E59E9" d="M29 27H35V35H29Z"/>
+  </g>
+  <text x="123" y="77" fill="#172037" font-family="Manrope,Inter,Arial,sans-serif" font-size="49" font-weight="800" letter-spacing="2">FIELDTRACE</text>
+  <rect x="126" y="94" width="20" height="3" rx="1.5" fill="#1E59E9"/>
+  <text x="157" y="100" fill="#68768F" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3">INTELLIGENT DESIGN SYSTEM STUDIO</text>
+</svg>
