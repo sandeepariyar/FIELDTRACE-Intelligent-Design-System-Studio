@@ -8,6 +8,8 @@
 
 [**Try the live FIELDTRACE Studio**](https://fieldtrace-studio.pages.dev/) | [Meet the creator](https://github.com/sandeepariyar)
 
+A dedicated visual project page is ready in [`docs/index.html`](docs/index.html). It can be served through GitHub Pages from `main` / `docs` without copying the Studio implementation into this repository.
+
 FIELDTRACE is a reusable, web-first design-system concept for teams building complex digital products. It brings live UI patterns, context-aware recommendations, cross-surface state modeling and design governance into one interactive experience.
 
 The current public experience includes a **network operations** example pack. FIELDTRACE itself is not tied to any one company or industry.
@@ -93,7 +95,7 @@ These are **product directions**, not claims that every capability is released t
 
 ## Source code and collaboration
 
-This public repository is a **showcase only**. It intentionally contains no implementation source, private export engine or proprietary engineering assets.
+This public repository is a **showcase only**. It contains brand vectors and the separate static presentation page, but no FIELDTRACE Studio implementation source, private export engine or proprietary engineering assets.
 
 The implementation is maintained privately. **If you are interested in reviewing the source, discussing the architecture or exploring a company-specific use case, please contact [Sandeep Pariyar](https://github.com/sandeepariyar).** Relevant code can be shared upon request.
 
