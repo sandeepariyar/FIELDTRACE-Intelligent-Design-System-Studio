@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-labelledby="title description">
+  <title id="title">FIELDTRACE Intelligent Design System Studio interface illustration</title>
+  <desc id="description">Illustrative composition of FIELDTRACE's light engineering workspace, left rail, advisor prompt, device and cloud illustration, and design principles. This is not an authentic screenshot.</desc>
+  <defs>
+    <linearGradient id="soft" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#EEF4FF"/><stop offset="1" stop-color="#DBE9FF"/></linearGradient>
+    <linearGradient id="signal" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#A8C5FF"/><stop offset="1" stop-color="#1E59E9"/></linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#C7D9F7" stroke-width=".8" opacity=".55"/></pattern>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="200%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#24427F" flood-opacity=".13"/></filter>
+    <filter id="cardShadow" x="-40%" y="-40%" width="200%" height="220%"><feDropShadow dx="0" dy="16" stdDeviation="13" flood-color="#1E3D7C" flood-opacity=".22"/></filter>
+  </defs>
+  <rect width="1280" height="720" fill="#F8F9FC"/>
+  <rect width="245" height="720" fill="#fff"/>
+  <path d="M245 0V720" stroke="#E4E9F1"/>
+  <g transform="translate(26 29)">
+    <path fill="#172037" d="M7 7H35V14H15V20H30V27H15V35H7Z"/>
+    <path fill="#1E59E9" d="M29 27H35V35H29Z"/>
+    <text x="53" y="21" font-family="Manrope,Arial,sans-serif" font-size="17" font-weight="800" letter-spacing="1.4" fill="#172037">FIELDTRACE</text>
+    <text x="53" y="37" font-family="Arial,sans-serif" font-size="8" font-weight="700" letter-spacing="1.7" fill="#79869A">INTELLIGENT DESIGN STUDIO</text>
+  </g>
+  <text x="36" y="137" font-family="Arial,sans-serif" font-size="10" font-weight="800" letter-spacing="1.5" fill="#8B98AB">EXPLORE THE SYSTEM</text>
+  <rect x="20" y="154" width="204" height="46" rx="10" fill="#EDF3FF"/>
+  <g font-family="Manrope,Arial,sans-serif" font-size="13" font-weight="700">
+    <text x="35" y="183" fill="#1E59E9">⌑</text><text x="69" y="183" fill="#1E59E9">Overview</text>
+    <text x="35" y="230" fill="#728099">✳</text><text x="69" y="230" fill="#64718B">Pattern advisor</text>
+    <text x="35" y="275" fill="#728099">⇄</text><text x="69" y="275" fill="#64718B">Device and cloud</text>
+    <text x="35" y="320" fill="#728099">▦</text><text x="69" y="320" fill="#64718B">Component lab</text>
+    <text x="35" y="365" fill="#728099">◈</text><text x="69" y="365" fill="#64718B">Foundations</text>
+    <text x="35" y="410" fill="#728099">◇</text><text x="69" y="410" fill="#64718B">Evidence and governance</text>
+  </g>
+  <rect x="25" y="602" width="193" height="1" fill="#E4E9F1"/>
+  <circle cx="38" cy="630" r="4" fill="#0A9770"/>
+  <text x="49" y="634" font-family="Arial,sans-serif" font-size="9" font-weight="800" letter-spacing="1.2" fill="#79879D">PUBLIC EXPLORATION</text>
+  <text x="34" y="659" font-family="Arial,sans-serif" font-size="11" fill="#8190A6">Reusable design intelligence</text>
+  <text x="34" y="677" font-family="Arial,sans-serif" font-size="11" fill="#8190A6">for web, device and cloud</text>
+  <rect x="245" y="0" width="1035" height="73" fill="#fff"/>
+  <path d="M245 73H1280" stroke="#E4E9F1"/>
+  <text x="289" y="43" font-family="Arial,sans-serif" font-size="11" font-weight="800" fill="#8C98AB" letter-spacing="1.2">FIELDTRACE</text>
+  <text x="390" y="43" font-family="Arial,sans-serif" font-size="11" fill="#B0BCCB">/</text>
+  <text x="411" y="43" font-family="Arial,sans-serif" font-size="11" font-weight="800" fill="#172037">Overview</text>
+  <circle cx="1082" cy="37" r="4" fill="#0A9770"/>
+  <text x="1093" y="40" font-family="Arial,sans-serif" font-size="10" font-weight="800" letter-spacing="1" fill="#8290A5">INTERACTIVE</text>
+  <circle cx="1235" cy="37" r="18" fill="#F4F6FB" stroke="#E4E9F1"/>
+  <path d="M1235 25A12 12 0 0 0 1235 49Z" fill="#3A568D"/>
+  <path d="M1235 25A12 12 0 0 1 1235 49Z" fill="#E7EDF7"/>
+  <g transform="translate(289 125)">
+    <rect y="0" width="21" height="3" rx="1.5" fill="#1E59E9"/>
+    <text x="32" y="5" font-family="Arial,sans-serif" font-size="12" font-weight="800" letter-spacing="1.5" fill="#1E59E9">DESIGN INTELLIGENCE FOR REAL WORK</text>
+    <text x="0" y="89" font-family="Manrope,Arial,sans-serif" font-size="58" font-weight="800" letter-spacing="-3" fill="#172037">Design systems</text>
+    <text x="0" y="154" font-family="Manrope,Arial,sans-serif" font-size="53" font-weight="800" letter-spacing="-3" fill="#172037">that </text>
+    <text x="120" y="154" font-family="Manrope,Arial,sans-serif" font-size="53" font-weight="800" font-style="italic" letter-spacing="-3" fill="#1E59E9">think</text>
+    <text x="254" y="154" font-family="Manrope,Arial,sans-serif" font-size="53" font-weight="800" letter-spacing="-3" fill="#172037"> with you.</text>
+    <text x="0" y="207" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#263650">An intelligent design-system and engineering decision studio.</text>
+    <text x="0" y="235" font-family="Arial,sans-serif" font-size="13" fill="#68768D">Discover patterns, test behavior and govern UX decisions</text>
+    <text x="0" y="255" font-family="Arial,sans-serif" font-size="13" fill="#68768D">across web, field devices and cloud.</text>
+    <rect x="0" y="292" width="190" height="48" rx="10" fill="#1E59E9"/>
+    <text x="95" y="321" text-anchor="middle" font-family="Manrope,Arial,sans-serif" font-size="12" font-weight="800" fill="#fff">Try the live Studio</text>
+    <rect x="203" y="292" width="178" height="48" rx="10" fill="#fff" stroke="#D9E2EF"/>
+    <text x="292" y="321" text-anchor="middle" font-family="Manrope,Arial,sans-serif" font-size="12" font-weight="800" fill="#172037">Explore the system</text>
+    <text x="0" y="369" font-family="Arial,sans-serif" font-size="10" fill="#8794A8">INDEPENDENT CONCEPT  ·  SYNTHETIC SCENARIOS</text>
+  </g>
+  <g transform="translate(791 111)">
+    <rect width="452" height="410" rx="26" fill="url(#soft)" stroke="#C8DAF6"/>
+    <rect width="452" height="410" rx="26" fill="url(#grid)"/>
+    <text x="22" y="28" font-family="Arial,sans-serif" font-size="10" font-weight="800" letter-spacing="1" fill="#5A77A7">01 / FIELD DEVICE</text>
+    <text x="342" y="385" font-family="Arial,sans-serif" font-size="10" font-weight="800" letter-spacing="1" fill="#5A77A7">02 / CLOUD</text>
+    <path d="M-22 319C90 321 99 90 200 120C308 160 339 324 488 87" fill="none" stroke="#BAD0FB" stroke-width="2"/>
+    <path d="M-22 319C90 321 99 90 200 120C308 160 339 324 488 87" fill="none" stroke="url(#signal)" stroke-width="4" stroke-dasharray="11 15" stroke-linecap="round"/>
+    <circle cx="200" cy="120" r="10" fill="#fff" stroke="#1E59E9" stroke-width="4"/>
+    <g transform="translate(45 109)" filter="url(#cardShadow)">
+      <rect width="181" height="208" rx="21" fill="#142345" stroke="#1A3155" stroke-width="5"/>
+      <text x="15" y="26" font-family="Arial,sans-serif" font-size="9" letter-spacing=".7" font-weight="800" fill="#B1C3DF">NETWORK TEST</text>
+      <text x="142" y="26" font-family="Arial,sans-serif" font-size="8" font-weight="800" fill="#7CE4BD">● LIVE</text>
+      <text x="17" y="106" font-family="Manrope,Arial,sans-serif" font-size="49" font-weight="800" fill="#fff" letter-spacing="-3">148</text>
+      <text x="119" y="106" font-family="Manrope,Arial,sans-serif" font-size="18" fill="#B6C8E6">ms</text>
+      <text x="17" y="126" font-family="Arial,sans-serif" font-size="8" font-weight="700" letter-spacing="1" fill="#9FB1CF">REFERENCE LATENCY</text>
+      <g fill="#518AF0"><rect x="17" y="146" width="10" height="18" rx="2"/><rect x="31" y="142" width="10" height="22" rx="2"/><rect x="45" y="134" width="10" height="30" rx="2"/><rect x="59" y="146" width="10" height="18" rx="2"/><rect x="73" y="139" width="10" height="25" rx="2"/><rect x="87" y="133" width="10" height="31" rx="2"/><rect x="101" y="145" width="10" height="19" rx="2"/><rect x="115" y="139" width="10" height="25" rx="2"/><rect x="129" y="146" width="10" height="18" rx="2"/><rect x="143" y="133" width="10" height="31" rx="2"/></g>
+      <path d="M16 178H164" stroke="#405476"/>
+      <text x="18" y="196" font-family="Arial,sans-serif" font-size="10" font-weight="800" fill="#83E8BF">PASS</text>
+      <text x="125" y="196" font-family="Arial,sans-serif" font-size="9" font-weight="800" fill="#D4E0F4">SYNCED</text>
+    </g>
+    <g transform="translate(252 161) rotate(-3 100 75)" filter="url(#shadow)">
+      <rect width="189" height="154" rx="13" fill="#fff" stroke="#D7E3F3"/>
+      <text x="15" y="28" font-family="Arial,sans-serif" font-size="9" font-weight="800" fill="#243958">EVIDENCE RECEIVED</text>
+      <circle cx="169" cy="23" r="4" fill="#1FA67C"/>
+      <rect x="15" y="45" width="158" height="7" rx="3" fill="#E8EFFA"/><rect x="15" y="45" width="140" height="7" rx="3" fill="#3D79EC"/>
+      <text x="15" y="79" font-family="Arial,sans-serif" font-size="9" fill="#6B7B96">Linked session</text><text x="138" y="79" font-family="Arial,sans-serif" font-size="9" font-weight="700" fill="#203455">FT-024</text>
+      <text x="15" y="104" font-family="Arial,sans-serif" font-size="9" fill="#6B7B96">Source status</text><text x="130" y="104" font-family="Arial,sans-serif" font-size="9" font-weight="700" fill="#203455">Verified*</text>
+      <text x="15" y="137" font-family="Arial,sans-serif" font-size="8" fill="#9AA9BD">*Illustrative composition</text>
+    </g>
+    <text x="20" y="389" font-family="ui-monospace,monospace" font-size="9" fill="#7D95B8">48.7 / 14.2 · SYNTHETIC</text>
+  </g>
+  <g transform="translate(289 563)" font-family="Arial,sans-serif">
+    <rect width="954" height="103" rx="15" fill="#fff" stroke="#E4E9F1"/>
+    <path d="M239 0V103M477 0V103M716 0V103" stroke="#E4E9F1"/>
+    <text x="18" y="31" font-size="10" font-weight="800" fill="#1E59E9">01 /</text><text x="59" y="31" font-size="12" font-weight="800" fill="#172037">Start with intent</text><text x="59" y="52" font-size="11" fill="#8795AA">Ask what to build</text>
+    <text x="257" y="31" font-size="10" font-weight="800" fill="#1E59E9">02 /</text><text x="299" y="31" font-size="12" font-weight="800" fill="#172037">See real behavior</text><text x="299" y="52" font-size="11" fill="#8795AA">Interact with states</text>
+    <text x="495" y="31" font-size="10" font-weight="800" fill="#1E59E9">03 /</text><text x="538" y="31" font-size="12" font-weight="800" fill="#172037">Preserve meaning</text><text x="538" y="52" font-size="11" fill="#8795AA">Device to cloud</text>
+    <text x="735" y="31" font-size="10" font-weight="800" fill="#1E59E9">04 /</text><text x="778" y="31" font-size="12" font-weight="800" fill="#172037">Govern decisions</text><text x="778" y="52" font-size="11" fill="#8795AA">Evidence and proposals</text>
+  </g>
+  <text x="1226" y="706" text-anchor="end" font-family="Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="1" fill="#9AA7B8">ILLUSTRATIVE LAYOUT PREVIEW · NOT A SCREENSHOT</text>
+</svg>

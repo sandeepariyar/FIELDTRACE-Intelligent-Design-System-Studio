@@ -1,14 +1,16 @@
-# FIELDTRACE
+# FIELDTRACE | Intelligent Design System Studio
 
 ![FIELDTRACE primary logo](assets/logo/fieldtrace-primary.svg)
-
-### Intelligent Design System Studio
 
 **A working exploration of how a design system can guide product decisions, not just display components.**
 
 [**Try the live FIELDTRACE Studio**](https://fieldtrace-studio.pages.dev/) | [Meet the creator](https://github.com/sandeepariyar)
 
-A dedicated visual project page is ready in [`docs/index.html`](docs/index.html). It can be served through GitHub Pages from `main` / `docs` without copying the Studio implementation into this repository.
+![Illustrative FIELDTRACE Studio layout showing the engineering workspace, design intelligence hero, and device-to-cloud visualization](assets/preview/fieldtrace-studio-layout.svg)
+
+*Illustrative interface preview based on the Studio's visual language, not a browser screenshot. [Open the working interface](https://fieldtrace-studio.pages.dev/) to test real behavior.*
+
+The dedicated [visual project page](docs/index.html) uses the same workspace layout, colors, typography and brand as the working Studio. GitHub Pages can publish it from `main` / `docs`, without copying the Studio implementation into this repository.
 
 FIELDTRACE is a reusable, web-first design-system concept for teams building complex digital products. It brings live UI patterns, context-aware recommendations, cross-surface state modeling and design governance into one interactive experience.
 
